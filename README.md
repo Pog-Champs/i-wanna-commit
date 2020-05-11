@@ -1,0 +1,2 @@
+# i-wanna-commit
+commit ;)
